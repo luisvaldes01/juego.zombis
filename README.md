@@ -1,2 +1,1 @@
-# juego.zombis
-juego shooter
+# Zombie-Shooter-stage-1
